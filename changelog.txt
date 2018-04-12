@@ -20,6 +20,9 @@ v0.10.2
   fighter stats (mainly weapon handling and agility, with only a slight raw
   damage buff) but has a significant continuous flux cost and debuffs the
   corresponding stats on the carrier--be careful using it when engaged!
+- Added a custom interaction to turn in AI cores, providing more reputation but
+  fewer credits than most factions. Given sufficient cores and Mayorate rep,
+  this can give access to the otherwise-unavailable AI Crew hullmod.
 - Removed campaign music to avoid an incompatibility with Audio Plus (which
   already has the Mayorate tracks).
 
