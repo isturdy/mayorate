@@ -22,6 +22,7 @@ v0.10.2
   corresponding stats on the carrier--be careful using it when engaged!
 - Removed campaign music to avoid an incompatibility with Audio Plus (which
   already has the Mayorate tracks).
+- Touch-ups to the Narayana sprite (thanks to King Alfonzo).
 
 v0.10.1
 Thanks to MesoTroniK, Phearlock, Avanatia, and TheWikiFish for feedback and
