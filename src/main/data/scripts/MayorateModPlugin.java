@@ -15,6 +15,7 @@ import data.scripts.world.utils.ilk_CommissionEffects;
 import data.scripts.world.utils.ilk_PathSpawnPoint;
 import data.shipsystems.scripts.ilk_BubbleShieldStats;
 import data.shipsystems.scripts.ilk_FighterCoprocessingStats;
+import data.shipsystems.scripts.ai.ilk_PhaseLeapAi;
 import exerelin.campaign.SectorManager;
 import org.apache.log4j.Level;
 import org.dark.shaders.light.LightData;
@@ -92,6 +93,7 @@ public class MayorateModPlugin extends BaseModPlugin {
     Global.getLogger(ilk_CommissionEffects.class).setLevel(level);
     Global.getLogger(ilk_DamageUtils.class).setLevel(level);
     Global.getLogger(ilk_FighterCoprocessingStats.class).setLevel(level);
+    Global.getLogger(ilk_PhaseLeapAi.class).setLevel(level);
     Global.getLogger(ilk_PathSpawnPoint.class).setLevel(level);
     Global.getLogger(ilk_RamdriveEveryFrameEffect.class).setLevel(level);
   }
